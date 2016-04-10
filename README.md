@@ -2,7 +2,7 @@
 
 In this application we will be working with the OMDB API to develop a movie search front end. This application will make use of Handlebars for templating.
 
-- Download the starter code, and link jQuery, Handlebars, and your custom JS file.
+- Download the starter code, and link Handlebars and your custom JS file.
 - You will be using the OMDB search API to pull a list of movies matching a search query in the text field.
 - A sample query is:
 
