@@ -6,14 +6,14 @@ In this application we will be working with the OMDB API to develop a movie sear
 - You will be using the OMDB search API to pull a list of movies matching a search query in the text field.
 - A sample query is:
 
-```text
+```
 http://www.omdbapi.com?s=The+Matrix
 ```
 
 - The JSON that comes back only gives you truncated information. You will need much more movie information to fill out the rest of the template.
 - You will need to make subsequent requests to retrieve the rest of the information. A good way to do this is through using the IMDB ID endpoint:
 
-```text
+```
 http://www.omdbapi.com/?i=tt0133093
 ```
 
