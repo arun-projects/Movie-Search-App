@@ -47,3 +47,7 @@ body.full-background {
 .movie-poster {
 	max-height:350px;
 }
+
+.margin-20 {
+	margin:20px;
+}
